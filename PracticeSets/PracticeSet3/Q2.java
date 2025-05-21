@@ -7,5 +7,5 @@ public class Q2{
         String inp = input.nextLine();
         String op = inp.replace(" ", "_");
         System.out.printf("==========\nInput: %s\nOutput: %s\n==========\n", inp, op);
-    }
+    }   
 }
